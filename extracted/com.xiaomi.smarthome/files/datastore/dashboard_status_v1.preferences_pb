@@ -1,0 +1,3 @@
+
+�
+12934�*�{"switch_status":true,"display_widgets":[{"type":"temp","title":"Температура"},{"type":"hum","title":"Влажность"},{"type":"pm25","title":"PM2.5"},{"type":"light","title":"Освещение"},{"type":"curtain","title":"Шторы"},{"type":"security","title":"Ошибки устройства"},{"type":"fault","title":"Неисправности устройства"},{"type":"consumable","title":"Расходные материалы"},{"type":"working","title":"Активные устройства"}],"hidden_widgets":[{"type":"hcho","title":"HCHO"},{"type":"co2","title":"CO₂"}]}

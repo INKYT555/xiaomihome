@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="CTAAuthorizationActivitynull#button#agree_link_button" value="1" />
+    <boolean name="CTAAuthorizationActivity_asyncCTATrace_finish" value="true" />
+    <string name="myTabRU_cached_data">{}</string>
+    <int name="CTAAuthorizationActivitynull#null#page_expose" value="1" />
+    <string name="device_list_adRU_cached_data">{}</string>
+    <int name="CTAAuthorizationActivitynull#button#agree_to_mijia_agreement_check_box" value="1" />
+    <string name="CTAAuthorizationActivity_DurationTime">#3910</string>
+    <string name="pluginRU_cached_data">{}</string>
+</map>

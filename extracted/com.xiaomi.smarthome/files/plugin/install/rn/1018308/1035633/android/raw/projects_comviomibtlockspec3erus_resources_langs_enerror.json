@@ -1,0 +1,30 @@
+{
+    "error_-1": {
+        "title": "人脸模组故障",
+        "detail": ""
+    },
+    "error_-2": {
+        "title": "指纹模组故障",
+        "detail": ""
+    },
+    "error_-3": {
+        "title": "后板故障",
+        "detail": ""
+    },
+    "error_-4": {
+        "title": "人脸+指纹故障",
+        "detail": ""
+    },
+    "error_-5": {
+        "title": "人脸+后板故障",
+        "detail": ""
+    },
+    "error_-6": {
+        "title": "指纹+后板故障",
+        "detail": ""
+    },
+    "error_-7": {
+        "title": "人脸+指纹+后板故障",
+        "detail": ""
+    }
+}

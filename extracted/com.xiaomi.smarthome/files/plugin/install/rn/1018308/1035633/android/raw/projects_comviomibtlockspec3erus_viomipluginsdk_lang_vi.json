@@ -1,0 +1,11 @@
+{
+  "设置":"Lỗi đặt",
+  "功能设置":"Cài đặt",
+  
+  "有{{errorsLength}}个问题未处理": "Những sai phạm bị treo:{{errorsLength}}",
+  "设备故障": "Lỗi thiết bị",
+  "如有疑问，请联系售后处理：{{consumerHotline}}": "Nếu có bất kỳ câu hỏi nào, xin vui lòng liên hệ với dịch vụ sau bán hàng",
+
+  "取消": "Hủy",
+  "确定": "Đồng ý"
+}

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="lastDownloadTime" value="1789559780275" />
+    <int name="maxduration" value="5000" />
+    <int name="frequency" value="30" />
+</map>

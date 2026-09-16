@@ -1,0 +1,11 @@
+{
+    "设置": "Ayarlama",
+    "功能设置": "Funksiyon ayarları",
+
+    "有{{errorsLength}}个问题未处理": "{{errorsLength}} özel sorun",
+    "设备故障": "Ekipman başarısızlığı",
+    "如有疑问，请联系售后处理：{{consumerHotline}}": "Eğer sorunuz varsa, lütfen satış hizmeti sonrasında temas edin: {{consumerHotline}}",
+
+    "确定": "İptal",
+    "取消": "Onayla"
+}

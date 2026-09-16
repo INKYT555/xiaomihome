@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="content">{&#10;  &quot;pre_connect_enable&quot;: true,&#10;  &quot;max_connect_count&quot;: 5,&#10;    &quot;lock_camera2&quot;: [&#10;  &quot;xiaomi.cateye.qp28&quot;,&#10;  &quot;xiaomi.cateye.4pro&quot;,&#10;  &quot;midr.cateye.db400a&quot;,&#10;  &quot;midr.cateye.sd400&quot;,&#10;      &quot;xiaomi.lock.s20pro&quot;,&#10;      &quot;xiaomi.lock.m30fc&quot;,&#10;      &quot;xiaomi.lock.s20&quot;,&#10;      &quot;xiaomi.lock.m30max&quot;,&#10;      &quot;xiaomi.lock.s2&quot;,&#10;      &quot;xiaomi.lock.m30fa&quot;,&#10;      &quot;xiaomi.lock.m40max&quot;&#10;    ],&#10;  &quot;low_power_camera_models&quot;: [&#10;   &quot;midr.camera.bw300&quot;,&#10;   &quot;midr.camera.bw400g&quot;,&#10;   &quot;midr.camera.bw400&quot;&#10;  ],&#10;  &quot;pre_connect_models&quot;: []&#10;}</string>
+    <long name="timestamp" value="1789560159853" />
+</map>

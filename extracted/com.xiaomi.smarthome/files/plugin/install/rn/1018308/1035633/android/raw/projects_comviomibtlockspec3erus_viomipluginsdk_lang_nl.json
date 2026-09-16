@@ -1,0 +1,11 @@
+{
+    "设置": "opzetten van",
+    "功能设置": "Functie instellingen",
+
+    "有{{errorsLength}}个问题未处理": "Er zijn {{errorsLength}} openstaande kwesties",
+    "设备故障": "Storingen van apparatuur",
+    "如有疑问，请联系售后处理：{{consumerHotline}}": "Als u vragen heeft, neem dan contact op met de klantenservice: {{consumerHotline}}",
+
+    "取消": "Annuleren",
+    "确定": "Bevestigen"
+}

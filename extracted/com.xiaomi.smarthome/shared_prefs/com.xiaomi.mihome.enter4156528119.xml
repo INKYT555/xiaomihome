@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="mihome_enter_main_page_show_flag_intl" value="1" />
+    <int name="mihome_enter_main_page_intl_version" value="11070704" />
+    <int name="mihome_enter_main_page_intl" value="1" />
+    <long name="mihome_first_count_time_intl" value="1789560551189" />
+</map>

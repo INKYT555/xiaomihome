@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="key_language_code">ru_ru</string>
+    <string name="key_server_code">{&quot;machineCode&quot;:&quot;ru&quot;,&quot;countryCode&quot;:&quot;RU&quot;}</string>
+</map>

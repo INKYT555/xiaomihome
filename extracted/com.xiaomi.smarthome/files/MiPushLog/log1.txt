@@ -1,0 +1,39 @@
+2026-09-16 14:56:18 PM com.xiaomi.smarthome-20712 [Tid:326] sdk_version = 5_1_8-G 
+2026-09-16 14:56:18 PM com.xiaomi.smarthome-20712 [Tid:324] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:18 PM com.xiaomi.smarthome-20712 [Tid:326] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:18 PM com.xiaomi.smarthome-20712 [Tid:326] current register region: Global 
+2026-09-16 14:56:18 PM com.xiaomi.smarthome-20712 [Tid:326] register invalid, aid=false;atn=false;rid=false;rse=false;did=false 
+2026-09-16 14:56:18 PM com.xiaomi.smarthome-20712 [Tid:326] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:18 PM com.xiaomi.smarthome-20712 [Tid:326] Don't send message before initialization succeeded! 
+2026-09-16 14:56:18 PM com.xiaomi.smarthome-20712 [Tid:326] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:18 PM com.xiaomi.smarthome-20712 [Tid:326] Don't send message before initialization succeeded! 
+2026-09-16 14:56:23 PM com.xiaomi.smarthome-20712 [Tid:326] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:31 PM com.xiaomi.smarthome-20712 [Tid:2] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:33 PM com.xiaomi.smarthome-20712 [Tid:137] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:33 PM com.xiaomi.smarthome-20712 [Tid:137] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:36 PM com.xiaomi.smarthome-20712 [Tid:137] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:36 PM com.xiaomi.smarthome-20712 [Tid:137] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:37 PM com.xiaomi.smarthome-20712 [Tid:137] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:39 PM com.xiaomi.smarthome-20712 [Tid:137] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:2] [CRcv] receive a msg broadcast: com.xiaomi.mipush.RECEIVE_MESSAGE 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:517] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:517] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:517] register invalid, aid=true;atn=true;rid=false;rse=false;did=false 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:517] processing a message, action=Registration 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:517] begin execute onCommandResult, command=register, resultCode=0, reason=null 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:517] ASSEMBLE_PUSH : assemble push register 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:2] [CRcv] receive a msg broadcast: com.xiaomi.mipush.RECEIVE_MESSAGE 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:517] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2026-09-16 14:56:41 PM com.xiaomi.smarthome-20712 [Tid:517] processing a message, action=Notification 
+2026-09-16 15:02:40 PM com.xiaomi.smarthome-9148 [Tid:358] sdk_version = 5_1_8-G 
+2026-09-16 15:02:40 PM com.xiaomi.smarthome-9148 [Tid:358] current register region: Global 
+2026-09-16 15:02:40 PM com.xiaomi.smarthome-9148 [Tid:378] (Local) begin execute onCommandResult, command=register, resultCode=0, reason=null 
+2026-09-16 15:02:40 PM com.xiaomi.smarthome-9148 [Tid:378] ASSEMBLE_PUSH : assemble push register 
+2026-09-16 15:02:41 PM com.xiaomi.smarthome-9148 [Tid:378] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2026-09-16 15:02:41 PM com.xiaomi.smarthome-9148 [Tid:378] receiving an empty message, drop 
+2026-09-16 15:09:06 PM com.xiaomi.smarthome-7142 [Tid:293] sdk_version = 5_1_8-G 
+2026-09-16 15:09:06 PM com.xiaomi.smarthome-7142 [Tid:293] current register region: Global 
+2026-09-16 15:09:06 PM com.xiaomi.smarthome-7142 [Tid:297] (Local) begin execute onCommandResult, command=register, resultCode=0, reason=null 
+2026-09-16 15:09:06 PM com.xiaomi.smarthome-7142 [Tid:297] ASSEMBLE_PUSH : assemble push register 
+2026-09-16 15:09:07 PM com.xiaomi.smarthome-7142 [Tid:297] receive an intent from server, action=com.xiaomi.mipush.RECEIVE_MESSAGE 
+2026-09-16 15:09:07 PM com.xiaomi.smarthome-7142 [Tid:297] receiving an empty message, drop 

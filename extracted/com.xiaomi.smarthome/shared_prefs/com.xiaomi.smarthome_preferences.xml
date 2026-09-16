@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="sh_pref_key_reged_fcmtoken_encrypted_user_id">bMBXxbh5La49KQcPHeL1KgQbYYA</string>
+    <boolean name="my_home_red_dot_clicked" value="true" />
+    <string name="sh_pref_key_reged_pushid_deviceid">4PXnJ1NFOky5xHMZgolZzVYCWN54whv+ut+SCOTQcL9CjXC6AhaIwRI0vD2dlc3G@$##$@3E02B7C0473B5407F7885B4D991A6CA230C43FBD</string>
+    <string name="sh_pref_key_reged_push_appversion">11.7.704</string>
+    <string name="sh_pref_key_reged_pushid_encrypted_user_id">bMBXxbh5La49KQcPHeL1KgQbYYA</string>
+    <boolean name="basic_mode_confirmed" value="false" />
+    <boolean name="pref_key_smarthome_exp_plan_user" value="true" />
+    <long name="sh_pref_key_fcmtoken_upload_time" value="1789559792058" />
+    <boolean name="mj_account_forceUploadAccountLogin" value="true" />
+    <long name="sh_pref_key_reged_upload_time" value="1789560161427" />
+    <string name="sh_pref_key_logged_reged_pushid_deviceid">4PXnJ1NFOky5xHMZgolZzVYCWN54whv+ut+SCOTQcL9CjXC6AhaIwRI0vD2dlc3G@$##$@3E02B7C0473B5407F7885B4D991A6CA230C43FBD</string>
+    <boolean name="mj_permission_mainpage_location_ishown" value="true" />
+    <long name="message_center_new_msg_timestamp4156528119" value="1789559790" />
+    <long name="setting_main_new_msg_timestamp4156528119" value="1789559801" />
+    <string name="sh_pref_key_reged_fcmtoken_deviceid">fOYawqW5QjyplJXqdHUIoK:APA91bFPoKt6HRd1oN2KviQ8gWM3WbFG4J53AiXC3tiXPz8cMoGUk1eULVCj4eCyHuxg_6uSxFghSX4Vr_f5gIr0KFYpSXeSmu-EdiJ4DSymGQTzEBHyqAo@$##$@3E02B7C0473B5407F7885B4D991A6CA230C43FBD</string>
+    <boolean name="check_notification_permission" value="false" />
+</map>

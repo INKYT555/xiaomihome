@@ -1,0 +1,11 @@
+{
+    "设置": "Estabelecer",
+    "功能设置": "Configuração das funções",
+
+    "有{{errorsLength}}个问题未处理": "Há {{errorsLength}} questões pendentes",
+    "设备故障": "Avaria do equipamento",
+    "如有疑问，请联系售后处理：{{consumerHotline}}": "Se você tiver alguma dúvida, entre em contato com o serviço pós-venda: {{consumerHotline}}",
+
+    "取消": "Cancelar",
+    "确定": "Confirmar"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="service_boot_mode" value="0" />
+    <long name="last_reg_request" value="1789560546776" />
+    <long name="last_job_time2" value="1789559783934" />
+    <boolean name="is_xmsf_sup_decrypt" value="false" />
+</map>

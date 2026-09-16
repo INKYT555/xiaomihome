@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="2fc8dc80177b09c0key_pref_uwb_config">{&quot;code&quot;:0,&quot;message&quot;:&quot;&quot;,&quot;result&quot;:null}</string>
+    <long name="95d565ef66e7dff9key_pref_uwb_config_update_time" value="1789559778797" />
+    <long name="2fc8dc80177b09c0key_pref_uwb_config_update_time" value="1789560159892" />
+    <string name="95d565ef66e7dff9key_pref_uwb_config">{&quot;code&quot;:0,&quot;message&quot;:&quot;&quot;,&quot;result&quot;:null}</string>
+</map>

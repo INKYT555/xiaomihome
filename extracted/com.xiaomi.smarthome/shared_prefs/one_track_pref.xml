@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="onetrack_user_id">4156528119</string>
+    <string name="app_config_region">RU</string>
+    <long name="first_launch_time" value="1789559774724" />
+    <boolean name="pref_custom_privacy_policy_186469800df62cb8028b76d3faa5b01a" value="true" />
+    <string name="last_app_version">{&quot;last_ver_name&quot;:&quot;11.7.704&quot;,&quot;last_ver_code&quot;:11070704}</string>
+    <long name="dau_last_time" value="1789559775658" />
+    <boolean name="pref_custom_privacy_policy_75f98cf134a8952479481f9db739d6f3" value="true" />
+    <long name="pref_instance_id_last_use_time" value="1789559774892" />
+    <boolean name="onetrack_first_open" value="false" />
+    <string name="pref_instance_id">55a6bfbc-607a-4a36-9e4a-2aa8d1fb2c9b</string>
+    <string name="page_end"></string>
+    <string name="onetrack_user_type">xiaomi</string>
+</map>

@@ -1,0 +1,630 @@
+{
+    "nested": {
+      "SCMap": {
+        "options": {
+          "optimize_for": "LITE_RUNTIME"
+        },
+        "nested": {
+          "MapHeadInfo": {
+            "fields": {
+              "mapHeadId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "sizeX": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "sizeY": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 3
+              },
+              "minX": {
+                "rule": "required",
+                "type": "float",
+                "id": 4
+              },
+              "minY": {
+                "rule": "required",
+                "type": "float",
+                "id": 5
+              },
+              "maxX": {
+                "rule": "required",
+                "type": "float",
+                "id": 6
+              },
+              "maxY": {
+                "rule": "required",
+                "type": "float",
+                "id": 7
+              },
+              "resolution": {
+                "rule": "required",
+                "type": "float",
+                "id": 8
+              }
+            }
+          },
+          "MapDataInfo": {
+            "fields": {
+              "mapData": {
+                "rule": "required",
+                "type": "bytes",
+                "id": 1
+              }
+            }
+          },
+          "AllMapInfo": {
+            "fields": {
+              "mapHeadId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "mapName": {
+                "rule": "required",
+                "type": "string",
+                "id": 2
+              }
+            }
+          },
+          "DeviceCoverPointDataInfo": {
+            "fields": {
+              "update": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "x": {
+                "rule": "required",
+                "type": "float",
+                "id": 2
+              },
+              "y": {
+                "rule": "required",
+                "type": "float",
+                "id": 3
+              }
+            }
+          },
+          "DeviceHistoryPoseInfo": {
+            "fields": {
+              "poseId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "points": {
+                "rule": "repeated",
+                "type": "DeviceCoverPointDataInfo",
+                "id": 2
+              },
+              "pathType": {
+                "type": "uint32",
+                "id": 3
+              }
+            }
+          },
+          "DevicePoseDataInfo": {
+            "fields": {
+              "x": {
+                "rule": "required",
+                "type": "float",
+                "id": 1
+              },
+              "y": {
+                "rule": "required",
+                "type": "float",
+                "id": 2
+              },
+              "phi": {
+                "rule": "required",
+                "type": "float",
+                "id": 3
+              },
+              "roomId": {
+                "type": "uint32",
+                "id": 4
+              }
+            }
+          },
+          "DeviceCurrentPoseInfo": {
+            "fields": {
+              "poseId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "update": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "x": {
+                "rule": "required",
+                "type": "float",
+                "id": 3
+              },
+              "y": {
+                "rule": "required",
+                "type": "float",
+                "id": 4
+              },
+              "phi": {
+                "rule": "required",
+                "type": "float",
+                "id": 5
+              }
+            }
+          },
+          "DevicePointInfo": {
+            "fields": {
+              "x": {
+                "rule": "required",
+                "type": "float",
+                "id": 1
+              },
+              "y": {
+                "rule": "required",
+                "type": "float",
+                "id": 2
+              }
+            }
+          },
+          "DeviceAreaDataInfo": {
+            "fields": {
+              "status": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "type": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "areaIndex": {
+                "type": "uint32",
+                "id": 3
+              },
+              "points": {
+                "rule": "repeated",
+                "type": "DevicePointInfo",
+                "id": 4
+              }
+            }
+          },
+          "DeviceNavigationPointDataInfo": {
+            "fields": {
+              "pointId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "status": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "pointType": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 3
+              },
+              "x": {
+                "rule": "required",
+                "type": "float",
+                "id": 4
+              },
+              "y": {
+                "rule": "required",
+                "type": "float",
+                "id": 5
+              },
+              "phi": {
+                "type": "float",
+                "id": 6
+              }
+            }
+          },
+          "CleanPerferenceDataInfo": {
+            "fields": {
+              "cleanMode": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "waterLevel": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "windPower": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 3
+              },
+              "twiceClean": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 4
+              }
+            }
+          },
+          "RoomDataInfo": {
+            "fields": {
+              "roomId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "roomName": {
+                "rule": "required",
+                "type": "string",
+                "id": 2
+              },
+              "roomTypeId": {
+                "type": "uint32",
+                "id": 3
+              },
+              "meterialId": {
+                "type": "uint32",
+                "id": 4
+              },
+              "cleanState": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 5
+              },
+              "roomClean": {
+                "type": "uint32",
+                "id": 6
+              },
+              "roomCleanIndex": {
+                "type": "uint32",
+                "id": 7
+              },
+              "roomNamePost": {
+                "rule": "required",
+                "type": "DevicePointInfo",
+                "id": 8
+              },
+              "cleanPerfer": {
+                "type": "CleanPerferenceDataInfo",
+                "id": 9
+              },
+              "colorId": {
+                "type": "uint32",
+                "id": 10
+              }
+            }
+          },
+          "DeviceRoomMatrix": {
+            "fields": {
+              "matrix": {
+                "rule": "required",
+                "type": "bytes",
+                "id": 1
+              }
+            }
+          },
+          "DeviceChainPointDataInfo": {
+            "fields": {
+              "x": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "y": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "value": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 3
+              }
+            }
+          },
+          "DeviceRoomChainDataInfo": {
+            "fields": {
+              "roomId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "points": {
+                "rule": "repeated",
+                "type": "DeviceChainPointDataInfo",
+                "id": 2
+              }
+            }
+          },
+          "ObjectDataInfo": {
+            "fields": {
+              "objectId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "objectTypeId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "objectName": {
+                "rule": "required",
+                "type": "string",
+                "id": 3
+              },
+              "confirm": {
+                "type": "uint32",
+                "id": 4
+              },
+              "x": {
+                "rule": "required",
+                "type": "float",
+                "id": 5
+              },
+              "y": {
+                "rule": "required",
+                "type": "float",
+                "id": 6
+              },
+              "url": {
+                "type": "string",
+                "id": 7
+              },
+              "notShow": {
+                "type": "uint32",
+                "id": 8
+              }
+            }
+          },
+          "FurnitureDataInfo": {
+            "fields": {
+              "id": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "typeId": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "points": {
+                "rule": "repeated",
+                "type": "DevicePointInfo",
+                "id": 3
+              },
+              "url": {
+                "type": "string",
+                "id": 4
+              },
+              "status": {
+                "type": "uint32",
+                "id": 5
+              },
+              "react": {
+                "rule": "repeated",
+                "type": "DevicePointInfo",
+                "id": 6
+              }
+            }
+          },
+          "MapExtInfo": {
+            "fields": {
+              "taskBeginDate": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "mapUploadDate": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "mapValid": {
+                "type": "uint32",
+                "id": 3
+              },
+              "radian": {
+                "type": "uint32",
+                "id": 4
+              },
+              "force": {
+                "type": "uint32",
+                "id": 5
+              },
+              "cleanPath": {
+                "type": "uint32",
+                "id": 6
+              },
+              "boudaryInfo": {
+                "type": "MapBoundaryInfo",
+                "id": 7
+              },
+              "mapVersion": {
+                "type": "uint32",
+                "id": 8
+              },
+              "mapValueType": {
+                "type": "uint32",
+                "id": 9
+              },
+              "carpetOffsetInfo": {
+                "type": "CarpetOffsetInfo",
+                "id": 10
+              }
+            }
+          },
+          "CarpetOffsetInfo": {
+            "fields": {
+              "phi": {
+                "rule": "required",
+                "type": "float",
+                "id": 1
+              },
+              "dist": {
+                "rule": "required",
+                "type": "float",
+                "id": 2
+              }
+            }
+          },
+          "MapBoundaryInfo": {
+            "fields": {
+              "mapMd5": {
+                "rule": "required",
+                "type": "string",
+                "id": 1
+              },
+              "vMinX": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 2
+              },
+              "vMaxX": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 3
+              },
+              "vMinY": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 4
+              },
+              "vMaxY": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 5
+              }
+            }
+          },
+          "HouseInfo": {
+            "fields": {
+              "id": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "name": {
+                "rule": "required",
+                "type": "string",
+                "id": 2
+              },
+              "curMapCount": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 3
+              },
+              "maxMapSize": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 4
+              },
+              "maps": {
+                "rule": "repeated",
+                "type": "AllMapInfo",
+                "id": 5
+              }
+            }
+          },
+          "RobotMap": {
+            "fields": {
+              "mapType": {
+                "rule": "required",
+                "type": "uint32",
+                "id": 1
+              },
+              "mapExtInfo": {
+                "rule": "required",
+                "type": "MapExtInfo",
+                "id": 2
+              },
+              "mapHead": {
+                "type": "MapHeadInfo",
+                "id": 3
+              },
+              "mapData": {
+                "type": "MapDataInfo",
+                "id": 4
+              },
+              "mapInfo": {
+                "rule": "repeated",
+                "type": "AllMapInfo",
+                "id": 5
+              },
+              "historyPose": {
+                "type": "DeviceHistoryPoseInfo",
+                "id": 6
+              },
+              "chargeStation": {
+                "type": "DevicePoseDataInfo",
+                "id": 7
+              },
+              "currentPose": {
+                "type": "DeviceCurrentPoseInfo",
+                "id": 8
+              },
+              "virtualWalls": {
+                "rule": "repeated",
+                "type": "DeviceAreaDataInfo",
+                "id": 9
+              },
+              "areasInfo": {
+                "rule": "repeated",
+                "type": "DeviceAreaDataInfo",
+                "id": 10
+              },
+              "navigationPoints": {
+                "rule": "repeated",
+                "type": "DeviceNavigationPointDataInfo",
+                "id": 11
+              },
+              "roomDataInfo": {
+                "rule": "repeated",
+                "type": "RoomDataInfo",
+                "id": 12
+              },
+              "roomMatrix": {
+                "type": "DeviceRoomMatrix",
+                "id": 13
+              },
+              "roomChain": {
+                "rule": "repeated",
+                "type": "DeviceRoomChainDataInfo",
+                "id": 14
+              },
+              "objects": {
+                "rule": "repeated",
+                "type": "ObjectDataInfo",
+                "id": 15
+              },
+              "furnitureInfo": {
+                "rule": "repeated",
+                "type": "FurnitureDataInfo",
+                "id": 16
+              },
+              "houseInfos": {
+                "rule": "repeated",
+                "type": "HouseInfo",
+                "id": 17
+              },
+              "backupAreas": {
+                "rule": "repeated",
+                "type": "DeviceAreaDataInfo",
+                "id": 18
+              }
+            }
+          }
+        }
+      }
+    }
+}

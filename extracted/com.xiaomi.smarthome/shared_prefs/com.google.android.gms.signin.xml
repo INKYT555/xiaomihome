@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="googleSignInOptions:B3A1B798F25BF31A79DAECA79B396F63">{&quot;scopes&quot;:[&quot;email&quot;,&quot;openid&quot;,&quot;profile&quot;],&quot;idTokenRequested&quot;:false,&quot;forceCodeForRefreshToken&quot;:false,&quot;serverAuthRequested&quot;:true,&quot;serverClientId&quot;:&quot;306021116245-17cuciu435des8duj1mdpe30vh3r05ae.apps.googleusercontent.com&quot;}</string>
+    <string name="defaultGoogleSignInAccount">B3A1B798F25BF31A79DAECA79B396F63</string>
+    <string name="googleSignInAccount:B3A1B798F25BF31A79DAECA79B396F63">{&quot;id&quot;:&quot;100587067516492989682&quot;,&quot;email&quot;:&quot;mtovkalov@gmail.com&quot;,&quot;displayName&quot;:&quot;LIahav&quot;,&quot;givenName&quot;:&quot;LIahav&quot;,&quot;photoUrl&quot;:&quot;https:\/\/lh3.googleusercontent.com\/a\/ACg8ocJ2zHzI-6fdSBrVNeZfjCvzBzBbC3q45w4Xq4wBZqNFicgCWLOG&quot;,&quot;expirationTime&quot;:1789563384,&quot;obfuscatedIdentifier&quot;:&quot;B3A1B798F25BF31A79DAECA79B396F63&quot;,&quot;grantedScopes&quot;:[&quot;email&quot;,&quot;https:\/\/www.googleapis.com\/auth\/userinfo.email&quot;,&quot;https:\/\/www.googleapis.com\/auth\/userinfo.profile&quot;,&quot;openid&quot;,&quot;profile&quot;]}</string>
+</map>

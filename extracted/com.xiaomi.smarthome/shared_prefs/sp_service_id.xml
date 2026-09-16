@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="serviceIds">
+        <string>xiaomiio</string>
+        <string>xiaomihome</string>
+        <string>deviceinfo</string>
+        <string>passportapi</string>
+    </set>
+</map>

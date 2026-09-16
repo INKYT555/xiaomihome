@@ -1,0 +1,11 @@
+{
+  "设置":"Pengaturan",
+  "功能设置":"Pengaturan pintasan",
+  
+  "有{{errorsLength}}个问题未处理": "Kesalahan yang tertunda:{{errorsLength}}",
+  "设备故障": "Kegagalan perangkat",
+  "如有疑问，请联系售后处理：{{consumerHotline}}": "Jika Anda memiliki pertanyaan, silakan hubungi layanan purna jual: {{consumerHotline}}.",
+
+  "取消": "Batalkan",
+  "确定": "Oke"
+}

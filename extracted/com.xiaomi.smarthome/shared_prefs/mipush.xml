@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="devId">3E02B7C0473B5407F7885B4D991A6CA230C43FBD</string>
+    <boolean name="valid" value="true" />
+    <string name="regResource">lainQH</string>
+    <string name="vName">11.7.704</string>
+    <int name="envType" value="1" />
+    <string name="appToken">5541723310197</string>
+    <string name="appId">2882303761517233197</string>
+    <string name="regId">4PXnJ1NFOky5xHMZgolZzVYCWN54whv+ut+SCOTQcL9CjXC6AhaIwRI0vD2dlc3G</string>
+    <string name="regSec">IMFl2akwRzFafa1ucaAAAA==</string>
+    <string name="appRegion">Europe</string>
+</map>

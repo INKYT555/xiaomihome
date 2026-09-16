@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="locale_common_config">{&quot;configInfos&quot;:[{&quot;key&quot;:&quot;miot_temperature_style&quot;,&quot;value&quot;:&quot;c&quot;},{&quot;key&quot;:&quot;miot_quickfeedback_access&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;key&quot;:&quot;feedbackRobot&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;key&quot;:&quot;homeShare&quot;,&quot;value&quot;:&quot;2&quot;}]}</string>
+    <string name="unit">℃=℃,</string>
+    <string name="server_new">{&quot;machineCode&quot;:&quot;ru&quot;,&quot;countryCode&quot;:&quot;RU&quot;}</string>
+</map>

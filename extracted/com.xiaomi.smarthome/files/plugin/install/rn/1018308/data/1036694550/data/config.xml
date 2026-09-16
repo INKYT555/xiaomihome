@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<map>
+  <string name="antitheft1036694550">{"value":true,"expire":0,"time":1789561336751}</string>
+  <string name="backLock1036694550">{"value":false,"expire":0,"time":1789561328523}</string>
+  <string name="volumeNav1036694550">{"value":1,"expire":0,"time":1789561336752}</string>
+  <string name="doorState1036694550">{"value":101,"expire":0,"time":1789561388712}</string>
+  <string name="autolock1036694550">{"value":true,"expire":0,"time":1789561336750}</string>
+  <string name="volumeAlarm1036694550">{"value":3,"expire":0,"time":1789561336752}</string>
+  <string name="volumeDoorbell1036694550">{"value":1,"expire":0,"time":1789561336753}</string>
+  <string name="childLock1036694550">{"value":false,"expire":0,"time":1789561336753}</string>
+  <string name="AlarmHistoryRecordDate1036694550">{"value":"2026-09-16 15:12:44","expire":0,"time":1789560764532}</string>
+</map>

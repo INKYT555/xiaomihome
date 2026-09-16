@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="usr_exp_plan" value="1" />
+    <boolean name="pref_key_smarthome_disclaim_confirmed" value="true" />
+    <string name="pref_key_smarthome_disclaim_confirmed_app_version">11.7.704</string>
+</map>
